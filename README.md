@@ -1,0 +1,2 @@
+# SpringRabbitMQ
+SpringRabbitMQ demo project
